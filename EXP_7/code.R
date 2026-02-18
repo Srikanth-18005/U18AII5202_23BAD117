@@ -1,6 +1,6 @@
 # ============================================================
 # EXPT NO: 7 – OVER-PLOTTING REDUCTION TECHNIQUES
-# ROLL NO: 23BAD122
+# ROLL NO: 23BAD117
 # ============================================================
  
 if (!require(ggplot2)) install.packages("ggplot2", dependencies = TRUE)
